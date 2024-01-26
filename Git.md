@@ -57,3 +57,11 @@ Isso renomeará o repositório remoto de "origin" para "novo-origin".
 
 Lembre-se de que o comando git remote é fundamental para a gestão de conexões entre seu repositório local e repositórios remotos, permitindo a colaboração eficiente e o controle de versão. Praticar esses comandos em seu ambiente de desenvolvimento ajudará a consolidar seu entendimento.
 
+## Outros principais comandos Git
+
+Configurar sua conta do Git em seu computador, com os comandos git config –global user.name e git config –global user.email;
+
+Criar e conectar seu repositório local com o repositório remoto por meio dos comandos:
+```
+git init, git add, git commit, git remote add e git push.
+```
