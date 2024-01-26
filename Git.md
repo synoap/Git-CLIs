@@ -59,8 +59,11 @@ Lembre-se de que o comando git remote é fundamental para a gestão de conexões
 
 ## Outros principais comandos Git
 
-Configurar sua conta do Git em seu computador, com os comandos git config –global user.name e git config –global user.email;
-
+Configurar sua conta do Git em seu computador, com os comandos:
+```
+git config –global user.email "your email here"
+git config –global user.name "your name here"
+```
 Criar e conectar seu repositório local com o repositório remoto por meio dos comandos:
 ```
 git init, git add, git commit, git remote add e git push.
